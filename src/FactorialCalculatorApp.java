@@ -1,6 +1,9 @@
 import java.text.NumberFormat;
 import java.util.Scanner;
 
+//The program returns the factorial of any non-negative number entered.
+//For example: If you enter 5, the program will return 120 (5!).
+
 public class FactorialCalculatorApp {
 
 	public static void main(String[] args) {
