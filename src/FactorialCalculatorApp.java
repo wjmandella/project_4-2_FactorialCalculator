@@ -39,5 +39,6 @@ public class FactorialCalculatorApp {
 			choice = sc.next();					
 		}
 			sc.close();
+			System.out.println("Bye!");
 	}
 }
